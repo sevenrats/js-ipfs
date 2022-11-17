@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [0.14.1](https://www.github.com/ipfs/js-ipfs/compare/ipfs-message-port-client-v0.14.0...ipfs-message-port-client-v0.14.1) (2022-11-17)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * interface-ipfs-core bumped from ^0.157.0 to ^0.157.1
+    * ipfs-core bumped from ^0.17.0 to ^0.17.1
+
 ## [0.14.0](https://www.github.com/ipfs/js-ipfs/compare/ipfs-message-port-client-v0.13.1...ipfs-message-port-client-v0.14.0) (2022-10-24)
 
 

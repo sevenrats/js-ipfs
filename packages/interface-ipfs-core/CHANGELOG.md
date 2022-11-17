@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [0.157.1](https://www.github.com/ipfs/js-ipfs/compare/interface-ipfs-core-v0.157.0...interface-ipfs-core-v0.157.1) (2022-11-17)
+
+
+### Bug Fixes
+
+* mfs blob import for files larger than 262144b ([#4251](https://www.github.com/ipfs/js-ipfs/issues/4251)) ([6be5906](https://www.github.com/ipfs/js-ipfs/commit/6be59068cc99c517526bfa123ad475ae05fcbaef)), closes [#3601](https://www.github.com/ipfs/js-ipfs/issues/3601) [#3576](https://www.github.com/ipfs/js-ipfs/issues/3576)
+
 ## [0.157.0](https://www.github.com/ipfs/js-ipfs/compare/interface-ipfs-core-v0.156.1...interface-ipfs-core-v0.157.0) (2022-10-24)
 
 
